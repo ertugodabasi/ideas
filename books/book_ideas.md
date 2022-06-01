@@ -9,3 +9,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] Flutter Mastery
+- [ ] Debugging with the Grace Hopper Method
